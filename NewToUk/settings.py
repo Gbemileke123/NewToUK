@@ -122,7 +122,7 @@ USE_TZ = True
 
 STATIC_URL = 'web/static/'
 STATICFILES_DIRS = [
-    "C:\\Users\\Abdulrazaq Olanite O\\Desktop\\Personal\\NewToUk\\web\\static",
+    "web/static",
 ]
 
 # Default primary key field type
